@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "localhost",
-        "name": "pset7",
-        "username": "kapilmait",
-        "password": "################"
+        "host": "tcp:phpserver5796.database.windows.net,1433",
+        "name": "PhPDB",
+        "username": "kapilbhatt5796",
+        "password": "kapil123@"
     }
 }
