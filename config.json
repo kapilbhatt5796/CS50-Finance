@@ -1,6 +1,6 @@
 {
     "database": {
-        "host": "tcp:phpserver5796.database.windows.net,1433",
+        "host": "tcp:php-server5796.database.windows.net,1433",
         "name": "PhPDB",
         "username": "kapilbhatt5796",
         "password": "kapil123@"
